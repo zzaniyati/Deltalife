@@ -1,0 +1,197 @@
+.nav-item a {
+    color: black;
+    font-weight: 530;
+}
+
+.nav-item a:hover {
+    color: #8CC63F;
+}
+
+.nav-btn {
+    font-weight: 600;
+    padding: 10px 26px;
+    margin: 10px;
+    color: whitesmoke !important;
+    border-radius: 0%;
+    background-color: #8CC63F;
+}
+
+.hero-head {
+    font-weight: 600;
+    font-size: 45px;
+    color: #ffffff;
+    font: Sora;
+    margin-top: 200px;
+}
+
+.hero-space {
+    margin-left: 10px;
+}
+
+.hero {
+    background-color: #8CC63F;
+}
+
+.boder {
+    border-bottom: #c2c2c2 solid 1px;
+}
+
+.hero-pera {
+    color: #ffffff;
+    font-weight: 400;
+    font-size: 18px;
+}
+
+.hero-btn {
+    font-weight: 600;
+    padding: 10px 26px;
+    margin: 10px;
+    color: #000000 !important;
+    border-radius: 0%;
+    background-color: #ffffff;
+}
+
+.bg-body {
+    background-color: #FAFAFA;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    border-bottom: #8CC63F solid 2px;
+    background-color: #FAFAFA;
+    color: #000000;
+    border-radius: 0%;
+}
+
+.product {
+    box-sizing: border-box;
+    width: 250px;
+    height: 400px;
+    color: #FAFAFA;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.sub-head {
+    font-size: 16px;
+    color: #8CC63F;
+    font-weight: 600;
+}
+
+.rupe {
+    font-weight: 700;
+    font-size: 26px;
+    color: #000000;
+}
+
+.rupe-not {
+    font-size: 18px;
+    font-weight: 300;
+    color: #6B6867;
+    text-decoration: line-through;
+}
+
+.industry {
+    margin-top: 100px;
+}
+
+.stock-btn {
+    font-weight: 600;
+    padding: 1px 10px;
+    margin: 10px;
+    color: whitesmoke !important;
+    background-color: #8CC63F;
+    border-radius: 50px;
+}
+
+.serach {
+    margin-top: 100px;
+    background-image: url(/assets/images/lonely-person-walking-pathway-alabama-hills-california-with-mount-whitney\ 1.png);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.search {
+    margin-top: 100px;
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    background: linear-gradient(rgba(140, 198, 63, 0.5), rgb(192, 251, 91, 0.5)), url(/assets/images/lonely-person-walking-pathway-alabama-hills-california-with-mount-whitney\ 1.png);
+
+}
+
+.review-box {
+    box-sizing: border-box;
+    width: 350px;
+    height: 200px;
+    background-color: #FAFAFA;
+    border-radius: 10px;
+}
+
+@media only screen and (min-width:320px) and (max-width:450px) {
+    .review-box {
+     
+        width: 200px;
+        height: 350px;
+       
+      
+    } 
+}
+
+.reviwe-img {
+    width: 200px;
+    height: 30px;
+}
+
+.g-img {
+    width: 20px;
+}
+
+.serach-btn {
+
+    font-weight: 500;
+    padding: 10px 26px;
+    margin: 10px;
+    color: #000000;
+    border-radius: 0%;
+    background-color: rgba(255, 255, 225, 0.5);
+    border: #17204836 solid 1px;
+
+}
+
+.text-gray {
+    color: #bdbdbd;
+  }
+
+.footer{
+    margin-top: 100px;
+}
+
+.footertext {
+    color: white;
+    margin-left: 25px;
+    font-weight: 500;
+    font-size: 18px;
+    font-weight: 600;
+  }
+  
+.footer-btn {
+    font-weight: 600;
+    padding: 7px 48px;
+    margin-top: 10px;
+    color: #000000;
+    border-radius: 0%;
+    background-color: #ffffff;
+}
+
+@media only screen and (min-width:320px) and (max-width:450px) {
+    .footer-btn {
+       
+        padding: 7px 4px;
+       
+    }
+     
+}
